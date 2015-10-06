@@ -1,0 +1,27 @@
+LHC	Samples:1		
+Number	of	parameters:25
+p	0.875	0	0.875	U
+mu	0.032258	0	0.032258	U
+muA	1	0	1	U
+phi	0.725	0	0.725	U
+betawU	0.1	0	0.1	U
+betawT  0.0255	0	0.0255	U
+betav1	0.00255	0	0.00255	U
+betav2	0.0255	0	0.0255	U
+betavT	0.00055	0	0.00055	U
+betavwU	0.055	0	0.055	U
+betavwT	0.0255	0	0.0255	U
+Vv	0.003898	0	0.003898	U
+VvU	0.2	0	0.2	U
+VvTAlpha	0.3125	0	0.3125	U
+VwAIDS	0.080867	0	0.080867	U
+Vw	0.25	0	0.25	U
+VwU	0.156783	0	0.156783	U
+VwT	0.053167	0	0.053167	U
+VwvUAlpha	0.55	0	0.55	U
+VwvTAlpha	0.3125	0	0.3125	U
+Fw	0.7	0	0.7	U
+Fv	0.7	0	0.7	U
+Fvw	0.7	0	0.7	U
+prev	0.2584	0	0.2584	U
+popthous	5560	0	5560	U
